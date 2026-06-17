@@ -559,7 +559,7 @@ Readme.txt,35356,,ReadMe/,https://...,1
 # ===== SAMP/ =====
 blanktex.txd,33320,,SAMP/,https://...,1
 CUSTOM.ide,302,,SAMP/,,0
-custom.img,8192,,SAMP/,https://...,1
+custom.img,0,,SAMP/,https://...,1
 samaps.txd,656040,,SAMP/,https://...,1
 SAMP.ide,89347,,SAMP/,https://...,1
 SAMP.img,47261696,,SAMP/,https://...,1
