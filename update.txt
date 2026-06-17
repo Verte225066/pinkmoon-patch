@@ -1,3 +1,7 @@
+# ========================================================================
+# PINKMOON TOWN - FULL MANIFEST (CORRECT)
+# ========================================================================
+
 # ===== ROOT FILES =====
 ASI Loader ReadMe.txt,2885,,,https://...,1
 bass.dll,128181,,,https://...,1
@@ -5,6 +9,7 @@ bass_fx.dll,34392,,,https://...,1
 chandling.asi,466944,,,https://...,1
 chandling_offsets.ini,2204,,,https://...,1
 cleo.asi,324096,,,https://...,1
+cleo.log,3084,,,https://...,1
 dxutgui.png,24749,,,https://...,1
 eax.dll,188416,,,https://...,1
 gtaweap3.ttf,103552,,,https://...,1
@@ -35,7 +40,7 @@ vorbisHooked.dll,65536,,,https://...,1
 Y-Axis_Sensitivity_Fix.asi,71680,,,https://...,1
 
 # ===== anim/ =====
-anim.img,10942464,,anim/,https://...,1   # ← ถ้าชื่อไฟล์จริงคือ anim.img
+anim.img,10942464,,anim/,https://...,1
 cuts.img,270096384,,anim/,https://...,1
 ped.ifp,1433248,,anim/,https://...,1
 
