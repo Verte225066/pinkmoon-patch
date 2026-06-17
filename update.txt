@@ -9,7 +9,7 @@ bass_fx.dll,34392,,,https://...,1
 chandling.asi,466944,,,https://...,1
 chandling_offsets.ini,2204,,,https://...,1
 cleo.asi,324096,,,https://...,1
-cleo.log,3084,,,https://...,1
+cleo.log,3084,,,,0
 dxutgui.png,24749,,,https://...,1
 eax.dll,188416,,,https://...,1
 gtaweap3.ttf,103552,,,https://...,1
@@ -513,7 +513,7 @@ Banking.txd,3392848,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Ba
 
 # ===== modloader/ =====
 modloader.ini,306,,modloader/,https://...,1
-modloader.log,1167,,modloader/,https://...,1
+modloader.log,1167,,modloader/,,0
 CHANGELOG.md,10187,,modloader/.data/,https://...,1
 Command Line Arguments.md,1187,,modloader/.data/,https://...,1
 config.ini,977,,modloader/.data/,https://...,1
