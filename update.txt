@@ -8,7 +8,7 @@ bass.dll,128181,,,https://...,1
 bass_fx.dll,34392,,,https://...,1
 chandling.asi,466944,,,https://...,1
 chandling_offsets.ini,2204,,,https://...,1
-cleo.asi,324096,,,https://...,1
+cleo.asi,302,,/,,0
 dxutgui.png,24749,,,https://...,1
 eax.dll,188416,,,https://...,1
 gtaweap3.ttf,103552,,,https://...,1
