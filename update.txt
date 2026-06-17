@@ -1,1 +1,10 @@
+# fileName,expectedSize,requiredMod,subPath,url,isCore
+
+# Core Files (มีในตัวติดตั้ง)
+gta_sa.exe,14400512,,,https://verte225066.github.io/pinkmoon-patch/gta_sa.exe,1
+samp.dll,2199552,,,https://verte225066.github.io/pinkmoon-patch/samp.dll,1
+
+# Patch Files (ดาวน์โหลดผ่านรันเซอร์)
+SAMPVoice.dll,1240000,MIC,,https://verte225066.github.io/pinkmoon-patch/SAMPVoice.dll,0
+d3d9.dll,2560000,ENB,,https://verte225066.github.io/pinkmoon-patch/d3d9.dll,0
 Banking.txd,3240000,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Banking.txd,0
