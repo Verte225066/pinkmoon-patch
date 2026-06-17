@@ -4,99 +4,98 @@
 # Format: fileName,expectedSize,requiredMod,subPath,url,isCore
 
 # SAMP
-SAMP/CUSTOM.ide,302,,SAMP/,https://verte225066.github.io/pinkmoon-patch/CUSTOM.ide,0
+#SAMP/CUSTOM.ide,302,,SAMP/,https://verte225066.github.io/pinkmoon-patch/CUSTOM.ide,0
 
 # modloader/maps
-modloader/maps/a.col,858236,,modloader/maps/,https://verte225066.github.io/pinkmoon-patch/a.col,0
-modloader/maps/banana/banana.dff,440848,,modloader/maps/banana/,https://verte225066.github.io/pinkmoon-patch/banana.dff,0
-modloader/maps/banana/banana.txd,186088,,modloader/maps/banana/,https://verte225066.github.io/pinkmoon-patch/banana.txd,0
-modloader/maps/logopink/LOGOPINK/logopink.dff,153445,,modloader/maps/logopink/LOGOPINK/,https://verte225066.github.io/pinkmoon-patch/logopink.dff,0
-modloader/maps/logopink/LOGOPINK/logopink.ifp,2048,,modloader/maps/logopink/LOGOPINK/,https://verte225066.github.io/pinkmoon-patch/logopink.ifp,0
-modloader/maps/logopink/LOGOPINK/logopink.txd,6290232,,modloader/maps/logopink/LOGOPINK/,https://verte225066.github.io/pinkmoon-patch/logopink.txd,0
-modloader/maps/logopink/LOGOPINK/logopink1.dff,130645,,modloader/maps/logopink/LOGOPINK/,https://verte225066.github.io/pinkmoon-patch/logopink1.dff,0
+#modloader/maps/banana/banana.dff,440848,,modloader/maps/banana/,https://verte225066.github.io/pinkmoon-patch/banana.dff,0
+#modloader/maps/banana/banana.txd,186088,,modloader/maps/banana/,https://verte225066.github.io/pinkmoon-patch/banana.txd,0
+#modloader/maps/logopink/LOGOPINK/logopink.dff,153445,,modloader/maps/logopink/LOGOPINK/,https://verte225066.github.io/pinkmoon-patch/logopink.dff,0
+#modloader/maps/logopink/LOGOPINK/logopink.ifp,2048,,modloader/maps/logopink/LOGOPINK/,https://verte225066.github.io/pinkmoon-patch/logopink.ifp,0
+#modloader/maps/logopink/LOGOPINK/logopink.txd,6290232,,modloader/maps/logopink/LOGOPINK/,https://verte225066.github.io/pinkmoon-patch/logopink.txd,0
+#modloader/maps/logopink/LOGOPINK/logopink1.dff,130645,,modloader/maps/logopink/LOGOPINK/,https://verte225066.github.io/pinkmoon-patch/logopink1.dff,0
 
 # modloader/maps/newbie
-modloader/maps/newbie/newbie.dff,21632,,modloader/maps/newbie/,https://verte225066.github.io/pinkmoon-patch/newbie.dff,0
-modloader/maps/newbie/newbie.txd,262696,,modloader/maps/newbie/,https://verte225066.github.io/pinkmoon-patch/newbie.txd,0
+#modloader/maps/newbie/newbie.dff,21632,,modloader/maps/newbie/,https://verte225066.github.io/pinkmoon-patch/newbie.dff,0
+#modloader/maps/newbie/newbie.txd,262696,,modloader/maps/newbie/,https://verte225066.github.io/pinkmoon-patch/newbie.txd,0
 
 # modloader/maps/orange
-modloader/maps/orange/orange.dff,611796,,modloader/maps/orange/,https://verte225066.github.io/pinkmoon-patch/orange.dff,0
-modloader/maps/orange/orange.txd,120424,,modloader/maps/orange/,https://verte225066.github.io/pinkmoon-patch/orange.txd,0
+#modloader/maps/orange/orange.dff,611796,,modloader/maps/orange/,https://verte225066.github.io/pinkmoon-patch/orange.dff,0
+#modloader/maps/orange/orange.txd,120424,,modloader/maps/orange/,https://verte225066.github.io/pinkmoon-patch/orange.txd,0
 
 # modloader/maps/REBEL
-modloader/maps/REBEL/REBEL2.dff,74685,,modloader/maps/REBEL/,https://verte225066.github.io/pinkmoon-patch/REBEL2.dff,0
-modloader/maps/REBEL/REBEL2.txd,328360,,modloader/maps/REBEL/,https://verte225066.github.io/pinkmoon-patch/REBEL2.txd,0
+#modloader/maps/REBEL/REBEL2.dff,74685,,modloader/maps/REBEL/,https://verte225066.github.io/pinkmoon-patch/REBEL2.dff,0
+#modloader/maps/REBEL/REBEL2.txd,328360,,modloader/maps/REBEL/,https://verte225066.github.io/pinkmoon-patch/REBEL2.txd,0
 
 # modloader/maps/SAFE
-modloader/maps/SAFE/safe.dff,1891288,,modloader/maps/SAFE/,https://verte225066.github.io/pinkmoon-patch/safe.dff,0
-modloader/maps/SAFE/safe.txd,4194472,,modloader/maps/SAFE/,https://verte225066.github.io/pinkmoon-patch/safe.txd,0
+#modloader/maps/SAFE/safe.dff,1891288,,modloader/maps/SAFE/,https://verte225066.github.io/pinkmoon-patch/safe.dff,0
+#modloader/maps/SAFE/safe.txd,4194472,,modloader/maps/SAFE/,https://verte225066.github.io/pinkmoon-patch/safe.txd,0
 
 # Skin_Moon - MD_F
-modloader/Skin_Moon/MD/MD_F/295.txt,0,,modloader/Skin_Moon/MD/MD_F/,https://verte225066.github.io/pinkmoon-patch/295.txt,0
-modloader/Skin_Moon/MD/MD_F/torino.dff,2978692,,modloader/Skin_Moon/MD/MD_F/,https://verte225066.github.io/pinkmoon-patch/torino.dff,0
-modloader/Skin_Moon/MD/MD_F/torino.txd,16293588,,modloader/Skin_Moon/MD/MD_F/,https://verte225066.github.io/pinkmoon-patch/torino.txd,0
+#modloader/Skin_Moon/MD/MD_F/295.txt,0,,modloader/Skin_Moon/MD/MD_F/,https://verte225066.github.io/pinkmoon-patch/295.txt,0
+#modloader/Skin_Moon/MD/MD_F/torino.dff,2978692,,modloader/Skin_Moon/MD/MD_F/,https://verte225066.github.io/pinkmoon-patch/torino.dff,0
+#modloader/Skin_Moon/MD/MD_F/torino.txd,16293588,,modloader/Skin_Moon/MD/MD_F/,https://verte225066.github.io/pinkmoon-patch/torino.txd,0
 
 # Skin_Moon - MD_M
-modloader/Skin_Moon/MD/MD_M/296.txt,0,,modloader/Skin_Moon/MD/MD_M/,https://verte225066.github.io/pinkmoon-patch/296.txt,0
-modloader/Skin_Moon/MD/MD_M/jizzy.dff,2986289,,modloader/Skin_Moon/MD/MD_M/,https://verte225066.github.io/pinkmoon-patch/jizzy.dff,0
-modloader/Skin_Moon/MD/MD_M/jizzy.txd,23554692,,modloader/Skin_Moon/MD/MD_M/,https://verte225066.github.io/pinkmoon-patch/jizzy.txd,0
+#modloader/Skin_Moon/MD/MD_M/296.txt,0,,modloader/Skin_Moon/MD/MD_M/,https://verte225066.github.io/pinkmoon-patch/296.txt,0
+#modloader/Skin_Moon/MD/MD_M/jizzy.dff,2986289,,modloader/Skin_Moon/MD/MD_M/,https://verte225066.github.io/pinkmoon-patch/jizzy.dff,0
+#modloader/Skin_Moon/MD/MD_M/jizzy.txd,23554692,,modloader/Skin_Moon/MD/MD_M/,https://verte225066.github.io/pinkmoon-patch/jizzy.txd,0
 
 # Skin_Moon - Newbie_F
-modloader/Skin_Moon/Newbie/Newbie_F/297.txt,0,,modloader/Skin_Moon/Newbie/Newbie_F/,https://verte225066.github.io/pinkmoon-patch/297.txt,0
-modloader/Skin_Moon/Newbie/Newbie_F/maddogg.dff,3297214,,modloader/Skin_Moon/Newbie/Newbie_F/,https://verte225066.github.io/pinkmoon-patch/maddogg.dff,0
-modloader/Skin_Moon/Newbie/Newbie_F/maddogg.txd,49555352,,modloader/Skin_Moon/Newbie/Newbie_F/,https://verte225066.github.io/pinkmoon-patch/maddogg.txd,0
+#modloader/Skin_Moon/Newbie/Newbie_F/297.txt,0,,modloader/Skin_Moon/Newbie/Newbie_F/,https://verte225066.github.io/pinkmoon-patch/297.txt,0
+#modloader/Skin_Moon/Newbie/Newbie_F/maddogg.dff,3297214,,modloader/Skin_Moon/Newbie/Newbie_F/,https://verte225066.github.io/pinkmoon-patch/maddogg.dff,0
+#modloader/Skin_Moon/Newbie/Newbie_F/maddogg.txd,49555352,,modloader/Skin_Moon/Newbie/Newbie_F/,https://verte225066.github.io/pinkmoon-patch/maddogg.txd,0
 
 # Skin_Moon - Newbie_M
-modloader/Skin_Moon/Newbie/Newbie_M/299.txt,0,,modloader/Skin_Moon/Newbie/Newbie_M/,https://verte225066.github.io/pinkmoon-patch/299.txt,0
-modloader/Skin_Moon/Newbie/Newbie_M/claude.dff,3236689,,modloader/Skin_Moon/Newbie/Newbie_M/,https://verte225066.github.io/pinkmoon-patch/claude.dff,0
-modloader/Skin_Moon/Newbie/Newbie_M/claude.txd,38930740,,modloader/Skin_Moon/Newbie/Newbie_M/,https://verte225066.github.io/pinkmoon-patch/claude.txd,0
+#modloader/Skin_Moon/Newbie/Newbie_M/299.txt,0,,modloader/Skin_Moon/Newbie/Newbie_M/,https://verte225066.github.io/pinkmoon-patch/299.txt,0
+#modloader/Skin_Moon/Newbie/Newbie_M/claude.dff,3236689,,modloader/Skin_Moon/Newbie/Newbie_M/,https://verte225066.github.io/pinkmoon-patch/claude.dff,0
+#modloader/Skin_Moon/Newbie/Newbie_M/claude.txd,38930740,,modloader/Skin_Moon/Newbie/Newbie_M/,https://verte225066.github.io/pinkmoon-patch/claude.txd,0
 
 # Skin_Moon - PD
-modloader/Skin_Moon/PD/300.txt,0,,modloader/Skin_Moon/PD/,https://verte225066.github.io/pinkmoon-patch/300.txt,0
-modloader/Skin_Moon/PD/bbthin.dff,1757506,,modloader/Skin_Moon/PD/,https://verte225066.github.io/pinkmoon-patch/bbthin.dff,0
-modloader/Skin_Moon/PD/bbthin.txd,22040284,,modloader/Skin_Moon/PD/,https://verte225066.github.io/pinkmoon-patch/bbthin.txd,0
+#modloader/Skin_Moon/PD/300.txt,0,,modloader/Skin_Moon/PD/,https://verte225066.github.io/pinkmoon-patch/300.txt,0
+#modloader/Skin_Moon/PD/bbthin.dff,1757506,,modloader/Skin_Moon/PD/,https://verte225066.github.io/pinkmoon-patch/bbthin.dff,0
+#modloader/Skin_Moon/PD/bbthin.txd,22040284,,modloader/Skin_Moon/PD/,https://verte225066.github.io/pinkmoon-patch/bbthin.txd,0
 
 # Skin_Moon - shop/01
-modloader/Skin_Moon/shop/01/294.txt,0,,modloader/Skin_Moon/shop/01/,https://verte225066.github.io/pinkmoon-patch/294.txt,0
-modloader/Skin_Moon/shop/01/wuzimu.dff,2853362,,modloader/Skin_Moon/shop/01/,https://verte225066.github.io/pinkmoon-patch/wuzimu.dff,0
-modloader/Skin_Moon/shop/01/wuzimu.txd,35363944,,modloader/Skin_Moon/shop/01/,https://verte225066.github.io/pinkmoon-patch/wuzimu.txd,0
+#modloader/Skin_Moon/shop/01/294.txt,0,,modloader/Skin_Moon/shop/01/,https://verte225066.github.io/pinkmoon-patch/294.txt,0
+#modloader/Skin_Moon/shop/01/wuzimu.dff,2853362,,modloader/Skin_Moon/shop/01/,https://verte225066.github.io/pinkmoon-patch/wuzimu.dff,0
+#modloader/Skin_Moon/shop/01/wuzimu.txd,35363944,,modloader/Skin_Moon/shop/01/,https://verte225066.github.io/pinkmoon-patch/wuzimu.txd,0
 
 # Skin_Moon - shop/02
-modloader/Skin_Moon/shop/02/298.txt,0,,modloader/Skin_Moon/shop/02/,https://verte225066.github.io/pinkmoon-patch/298.txt,0
-modloader/Skin_Moon/shop/02/cat.dff,4687262,,modloader/Skin_Moon/shop/02/,https://verte225066.github.io/pinkmoon-patch/cat.dff,0
-modloader/Skin_Moon/shop/02/cat.txd,21172536,,modloader/Skin_Moon/shop/02/,https://verte225066.github.io/pinkmoon-patch/cat.txd,0
+#modloader/Skin_Moon/shop/02/298.txt,0,,modloader/Skin_Moon/shop/02/,https://verte225066.github.io/pinkmoon-patch/298.txt,0
+#modloader/Skin_Moon/shop/02/cat.dff,4687262,,modloader/Skin_Moon/shop/02/,https://verte225066.github.io/pinkmoon-patch/cat.dff,0
+#modloader/Skin_Moon/shop/02/cat.txd,21172536,,modloader/Skin_Moon/shop/02/,https://verte225066.github.io/pinkmoon-patch/cat.txd,0
 
 # Skin_Moon - shop/03
-modloader/Skin_Moon/shop/03/15.txt,0,,modloader/Skin_Moon/shop/03/,https://verte225066.github.io/pinkmoon-patch/15.txt,0
-modloader/Skin_Moon/shop/03/bmycr.dff,2464346,,modloader/Skin_Moon/shop/03/,https://verte225066.github.io/pinkmoon-patch/bmycr.dff,0
-modloader/Skin_Moon/shop/03/bmycr.txd,42346600,,modloader/Skin_Moon/shop/03/,https://verte225066.github.io/pinkmoon-patch/bmycr.txd,0
+#modloader/Skin_Moon/shop/03/15.txt,0,,modloader/Skin_Moon/shop/03/,https://verte225066.github.io/pinkmoon-patch/15.txt,0
+#modloader/Skin_Moon/shop/03/bmycr.dff,2464346,,modloader/Skin_Moon/shop/03/,https://verte225066.github.io/pinkmoon-patch/bmycr.dff,0
+#modloader/Skin_Moon/shop/03/bmycr.txd,42346600,,modloader/Skin_Moon/shop/03/,https://verte225066.github.io/pinkmoon-patch/bmycr.txd,0
 
 # Skin_Moon - shop/04
-modloader/Skin_Moon/shop/04/291.txt,0,,modloader/Skin_Moon/shop/04/,https://verte225066.github.io/pinkmoon-patch/291.txt,0
-modloader/Skin_Moon/shop/04/paul.dff,3093558,,modloader/Skin_Moon/shop/04/,https://verte225066.github.io/pinkmoon-patch/paul.dff,0
-modloader/Skin_Moon/shop/04/paul.txd,3453780,,modloader/Skin_Moon/shop/04/,https://verte225066.github.io/pinkmoon-patch/paul.txd,0
+#modloader/Skin_Moon/shop/04/291.txt,0,,modloader/Skin_Moon/shop/04/,https://verte225066.github.io/pinkmoon-patch/291.txt,0
+#modloader/Skin_Moon/shop/04/paul.dff,3093558,,modloader/Skin_Moon/shop/04/,https://verte225066.github.io/pinkmoon-patch/paul.dff,0
+#modloader/Skin_Moon/shop/04/paul.txd,3453780,,modloader/Skin_Moon/shop/04/,https://verte225066.github.io/pinkmoon-patch/paul.txd,0
 
 # Skin_Moon - shop/05
-modloader/Skin_Moon/shop/05/290.txt,0,,modloader/Skin_Moon/shop/05/,https://verte225066.github.io/pinkmoon-patch/290.txt,0
-modloader/Skin_Moon/shop/05/rose.dff,3324430,,modloader/Skin_Moon/shop/05/,https://verte225066.github.io/pinkmoon-patch/rose.dff,0
-modloader/Skin_Moon/shop/05/rose.txd,13453096,,modloader/Skin_Moon/shop/05/,https://verte225066.github.io/pinkmoon-patch/rose.txd,0
+#modloader/Skin_Moon/shop/05/290.txt,0,,modloader/Skin_Moon/shop/05/,https://verte225066.github.io/pinkmoon-patch/290.txt,0
+#modloader/Skin_Moon/shop/05/rose.dff,3324430,,modloader/Skin_Moon/shop/05/,https://verte225066.github.io/pinkmoon-patch/rose.dff,0
+#modloader/Skin_Moon/shop/05/rose.txd,13453096,,modloader/Skin_Moon/shop/05/,https://verte225066.github.io/pinkmoon-patch/rose.txd,0
 
 # TXD Files
-models/txd/LOADINGgui.txd,293200,,models/txd/,https://verte225066.github.io/pinkmoon-patch/LOADINGgui.txd,0
-models/txd/logoMoon.txd,335560,,models/txd/,https://verte225066.github.io/pinkmoon-patch/logoMoon.txd,0
-models/txd/MEMU.txd,673688,,models/txd/,https://verte225066.github.io/pinkmoon-patch/MEMU.txd,0
-models/txd/PROGREES_MINE.txd,906608,,models/txd/,https://verte225066.github.io/pinkmoon-patch/PROGREES_MINE.txd,0
-models/txd/PROGRESS_IRON.txd,339008,,models/txd/,https://verte225066.github.io/pinkmoon-patch/PROGRESS_IRON.txd,0
-models/txd/PROGRESS_WOOD.txd,339008,,models/txd/,https://verte225066.github.io/pinkmoon-patch/PROGRESS_WOOD.txd,0
-models/txd/Restartserver.txd,231424,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Restartserver.txd,0
-models/txd/Shop.txd,6665208,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Shop.txd,0
-models/txd/SPEEDDO.txd,669212,,models/txd/,https://verte225066.github.io/pinkmoon-patch/SPEEDDO.txd,0
-models/txd/inv.txd,20795392,,models/txd/,https://verte225066.github.io/pinkmoon-patch/inv.txd,0
-models/txd/item.txd,47232,,models/txd/,https://verte225066.github.io/pinkmoon-patch/item.txd,0
+#models/txd/LOADINGgui.txd,293200,,models/txd/,https://verte225066.github.io/pinkmoon-patch/LOADINGgui.txd,0
+#models/txd/logoMoon.txd,335560,,models/txd/,https://verte225066.github.io/pinkmoon-patch/logoMoon.txd,0
+#models/txd/MEMU.txd,673688,,models/txd/,https://verte225066.github.io/pinkmoon-patch/MEMU.txd,0
+#models/txd/PROGREES_MINE.txd,906608,,models/txd/,https://verte225066.github.io/pinkmoon-patch/PROGREES_MINE.txd,0
+#models/txd/PROGRESS_IRON.txd,339008,,models/txd/,https://verte225066.github.io/pinkmoon-patch/PROGRESS_IRON.txd,0
+#models/txd/PROGRESS_WOOD.txd,339008,,models/txd/,https://verte225066.github.io/pinkmoon-patch/PROGRESS_WOOD.txd,0
+#models/txd/Restartserver.txd,231424,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Restartserver.txd,0
+#models/txd/Shop.txd,6665208,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Shop.txd,0
+#models/txd/SPEEDDO.txd,669212,,models/txd/,https://verte225066.github.io/pinkmoon-patch/SPEEDDO.txd,0
+#models/txd/inv.txd,20795392,,models/txd/,https://verte225066.github.io/pinkmoon-patch/inv.txd,0
+#models/txd/item.txd,47232,,models/txd/,https://verte225066.github.io/pinkmoon-patch/item.txd,0
 models/txd/Banking.txd,3392848,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Banking.txd,0
-models/txd/CRAFTING.txd,3560100,,models/txd/,https://verte225066.github.io/pinkmoon-patch/CRAFTING.txd,0
-models/txd/dead.txd,9860724,,models/txd/,https://verte225066.github.io/pinkmoon-patch/dead.txd,0
-models/txd/ECONOMY_M.txd,3482820,,models/txd/,https://verte225066.github.io/pinkmoon-patch/ECONOMY_M.txd,0
-models/txd/FARMui.txd,450216,,models/txd/,https://verte225066.github.io/pinkmoon-patch/FARMui.txd,0
+#models/txd/CRAFTING.txd,3560100,,models/txd/,https://verte225066.github.io/pinkmoon-patch/CRAFTING.txd,0
+#models/txd/dead.txd,9860724,,models/txd/,https://verte225066.github.io/pinkmoon-patch/dead.txd,0
+#models/txd/ECONOMY_M.txd,3482820,,models/txd/,https://verte225066.github.io/pinkmoon-patch/ECONOMY_M.txd,0
+#models/txd/FARMui.txd,450216,,models/txd/,https://verte225066.github.io/pinkmoon-patch/FARMui.txd,0
 models/txd/GARAGE.txd,2292308,,models/txd/,https://verte225066.github.io/pinkmoon-patch/GARAGE.txd,0
 models/txd/ICON_FAC.txd,250984,,models/txd/,https://verte225066.github.io/pinkmoon-patch/ICON_FAC.txd,0
