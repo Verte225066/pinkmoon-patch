@@ -413,7 +413,7 @@ fronten1.txd,108200,,models/,https://...,1
 fronten2.txd,984104,,models/,https://...,1
 fronten3.txd,9512,,models/,https://...,1
 fronten_pc.txd,2344,,models/,https://...,1
-gta3.img,497031168,,models/,https://...,1
+gta3.img,940064768,,models/,https://...,1
 gta_int.img,150024192,,models/,https://...,1
 hud.txd,439320,,models/,https://...,1
 misc.txd,23976,,models/,https://...,1
