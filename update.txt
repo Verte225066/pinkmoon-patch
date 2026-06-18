@@ -510,19 +510,19 @@ splash2.txd,65704,,models/txd/,https://...,1
 splash3.txd,40,,models/txd/,https://...,1
 Banking.txd,3392848,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Banking.txd,0
 CRAFTING.txd,3560100,,models/txd/,https://verte225066.github.io/pinkmoon-patch/CRAFTING.txd,0
-ECONOMY_M.txd,9860724,,models/txd/,https://verte225066.github.io/pinkmoon-patch/ECONOMY_M.txd,0
+ECONOMY_M.txd,3482820,,models/txd/,https://verte225066.github.io/pinkmoon-patch/ECONOMY_M.txd,0
 FARMui.txd,450216,,models/txd/,https://verte225066.github.io/pinkmoon-patch/FARMui.txd,0
 GARAGE.txd,2292308,,models/txd/,https://verte225066.github.io/pinkmoon-patch/GARAGE.txd,0
 ICON_FAC.txd,250984,,models/txd/,https://verte225066.github.io/pinkmoon-patch/ICON_FAC.txd,0
 PROGREES_MINE.txd,906608,,models/txd/,https://verte225066.github.io/pinkmoon-patch/PROGREES_MINE.txd,0
 PROGRESS_IRON.txd,339008,,models/txd/,https://verte225066.github.io/pinkmoon-patch/PROGRESS_IRON.txd,0
 PROGRESS_WOOD.txd,339008,,models/txd/,https://verte225066.github.io/pinkmoon-patch/PROGRESS_WOOD.txd,0
-Restartserver,231424,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Restartserver.txd,0
-SPEEDDO,669,212,,models/txd/,https://verte225066.github.io/pinkmoon-patch/SPEEDDO.txd,0
-Shop,6665208,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Shop.txd,0
-dead,9860724,,models/txd/,https://verte225066.github.io/pinkmoon-patch/dead.txd,0
-inv,20795392,,models/txd/,https://verte225066.github.io/pinkmoon-patch/inv.txd,0
-item,4723288,,models/txd/,https://verte225066.github.io/pinkmoon-patch/item.txd,0
+Restartserver.txd,231424,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Restartserver.txd,0
+SPEEDDO.txd,669,212,,models/txd/,https://verte225066.github.io/pinkmoon-patch/SPEEDDO.txd,0
+Shop.txd,6665208,,models/txd/,https://verte225066.github.io/pinkmoon-patch/Shop.txd,0
+dead.txd,9860724,,models/txd/,https://verte225066.github.io/pinkmoon-patch/dead.txd,0
+inv.txd,20795392,,models/txd/,https://verte225066.github.io/pinkmoon-patch/inv.txd,0
+item.txd,4723288,,models/txd/,https://verte225066.github.io/pinkmoon-patch/item.txd,0
 
 
 # ===== modloader/ =====
